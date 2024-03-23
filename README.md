@@ -1,4 +1,4 @@
-# Unity #C# #C++++ #C Language  #C++  
+# Unity C# C++ C Language    
 유니티를 이용한 공부 및 프로젝트 
 
 컴퓨터 사양 부족해서 유니티부터 차근 차근 공부 
